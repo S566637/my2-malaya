@@ -1,7 +1,7 @@
 # my2-malaya
 # seerapu malaya sugandhini
 
-# Your Name
+
 
 ## Favorite Vacation Spot
 

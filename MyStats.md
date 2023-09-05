@@ -11,6 +11,5 @@ I believe in lifelong learning and am always seeking opportunities to acquire ne
 
 Feel free to connect with me to share travel stories, book recommendations, or discuss photography techniques. Let's embark on a journey of discovery together!
 
-[![Sugandhini](my pic suggu.jpg)](MyStats.md)
-[![Sugandhini](my pic suggu.jpg)](MyStats.md)
+[![Sugandhini](https://github.com/S566637/my2-malaya/blob/main/my%20pic%20suggu.jpg)](MyStats.md)
 

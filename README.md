@@ -31,5 +31,6 @@ Don't miss out on these delectable dishes during your visit to Maui:
 
 Feel free to savor these dishes while embracing the beauty and culture of Maui, Hawaii!
 
+**Learn More About Me:** [Explore MyStats](MyStats.md)
 
 

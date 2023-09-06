@@ -55,7 +55,7 @@ _____
 
 # CODE FENCING
 
->* **QUESTION : how to Get Featured Image URL**- [Stackoverflow Link](https://css-tricks.com/snippets/wordpress/get-featured-image-url/)
+>* **QUESTION : how to Get Featured Image URL**- [Stackoverflow Link](https://stackoverflow.com/questions/11261883/how-to-get-the-wordpress-post-thumbnail-featured-image-url)
 
 ### CODE SNIPPET
 

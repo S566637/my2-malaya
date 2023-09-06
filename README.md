@@ -55,7 +55,7 @@ _____
 
 # CODE FENCING
 
->* **QUESTION : how to getGet Featured Image URL**- [Stackoverflow Link](https://css-tricks.com/snippets/wordpress/get-featured-image-url/)
+>* **QUESTION : how to Get Featured Image URL**- [Stackoverflow Link](https://css-tricks.com/snippets/wordpress/get-featured-image-url/)
 
 ### CODE SNIPPET
 

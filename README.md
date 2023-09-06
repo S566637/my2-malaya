@@ -55,14 +55,15 @@ _____
 
 # CODE FENCING
 
+
 ### CODE SNIPPET
 
-// define('WP_DEBUG', false);
 
-define('WP_DEBUG', true);
-define('WP_DEBUG_LOG', true);
-define('WP_DEBUG_DISPLAY', false);
-@ini_set('display_errors', 0);
+add_theme_support('post-thumbnails'); 
+get_the_post_thumbnail();
+$thumb_id = get_post_thumbnail_id();
+$thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true);
+$thumb_url = $thumb_url_array[0];
 
 
-[Code Snippet Link](https://css-tricks.com/snippets/wordpress/turn-on-wordpress-error-reporting/)
+[Code Snippet Link](https://css-tricks.com/snippets/wordpress/get-featured-image-url/)

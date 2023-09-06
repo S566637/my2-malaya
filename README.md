@@ -59,11 +59,11 @@ _____
 ### CODE SNIPPET
 
 
-add_theme_support('post-thumbnails'); 
-get_the_post_thumbnail();
-$thumb_id = get_post_thumbnail_id();
-$thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true);
-$thumb_url = $thumb_url_array[0];
+    add_theme_support('post-thumbnails'); 
+    get_the_post_thumbnail();
+    $thumb_id = get_post_thumbnail_id();
+    $thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true);
+    $thumb_url = $thumb_url_array[0];
 
 
 [Code Snippet Link](https://css-tricks.com/snippets/wordpress/get-featured-image-url/)

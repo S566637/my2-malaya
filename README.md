@@ -52,3 +52,17 @@ _____
 >*Isaac Newton* - "The more I learn, the more I realize how much I don't know."<br>
 
 >*Albert Einstein* - "The only source of knowledge is experience.”
+
+# CODE FENCING
+
+### CODE SNIPPET
+
+// define('WP_DEBUG', false);
+
+define('WP_DEBUG', true);
+define('WP_DEBUG_LOG', true);
+define('WP_DEBUG_DISPLAY', false);
+@ini_set('display_errors', 0);
+
+
+[Code Snippet Link](https://css-tricks.com/snippets/wordpress/turn-on-wordpress-error-reporting/)
